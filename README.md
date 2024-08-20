@@ -33,13 +33,13 @@ AIFFEL_quest_cr
 
 └── Flutter
 │   ├── Fl11
-│   │   ├── .ipynb
+│   │   ├── Fl11_project
 │   │   └── README.md
 .       .
 .       .
 .       .
 │   └── Fl15
-│       ├── .ipynb
+│       ├── Fl15_project
 │       └── README.md
 .
 .
