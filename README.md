@@ -11,20 +11,20 @@ AIFFEL_quest_cr
 .       .
 .       .
 .       .
-│   └── Quest08
+│   └── Quest04
 │       ├── .ipynb
 │       └── README.md
 .
 .
 .
 └── Python
-│   ├── Ex01
+│   ├── Py01
 │       ├── .ipynb
 │       └── README.md
 .       .
 .       .
 .       .
-│   └── Ex04
+│   └── Py04
 │       ├── .ipynb
 │       └── README.md
 .
@@ -32,13 +32,13 @@ AIFFEL_quest_cr
 .
 
 └── Flutter
-│   ├── Ex11
+│   ├── Fl11
 │   │   ├── .ipynb
 │   │   └── README.md
 .       .
 .       .
 .       .
-│   └── Ex15
+│   └── Fl15
 │       ├── .ipynb
 │       └── README.md
 .
