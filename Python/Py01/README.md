@@ -14,7 +14,7 @@
     - if word[i]  != word[-1 - i]:
     - 단어의 맨 처음과 맨 마지막부터 비교
     - word[-1] 코드 기능의 설명이 빠져있음
-![Uploaded Image](https://github.com/Mingoo-K/CallingKEB_AIFFEL_quest_cr/blob/86920d70828c1b504a738707a12037b6f2c44d25/Python/Py01/Py01-01.png)
+<img src=https://github.com/Mingoo-K/CallingKEB_AIFFEL_quest_cr/blob/86920d70828c1b504a738707a12037b6f2c44d25/Python/Py01/Py01-01.png>
           
         
         
