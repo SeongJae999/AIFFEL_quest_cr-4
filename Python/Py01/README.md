@@ -12,10 +12,10 @@
 - [✔]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     - if word[i]  != word[-1 - i]:
-    - # 단어의 맨 처음과 맨 마지막부터 비교
+    - 단어의 맨 처음과 맨 마지막부터 비교
     - word[-1] 코드 기능의 설명이 빠져있음
-        
-        
+![Uploaded Image](https://github.com/Mingoo-K/CallingKEB_AIFFEL_quest_cr/blob/86920d70828c1b504a738707a12037b6f2c44d25/Python/Py01/Py01-01.png)
+          
         
         
 - [✔]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
