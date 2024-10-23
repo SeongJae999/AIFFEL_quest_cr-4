@@ -4,7 +4,7 @@
     - 와이어프레임
 ![와이어프레임](https://github.com/user-attachments/assets/40bd62cc-6ad4-4b49-b236-ba445308edbf)
 
-**2. 와이어프레임을 바탕으로 프로토타이핑 툴(Oven, Figma, Adobe XD, Protopie 등)중 하나를 사용하여 프로토타이핑을 완성**
+**2. 와이어프레임을 바탕으로 프로토타이핑 툴(Oven, Figma, Adobe XD, Protopie 등)중 하나를 사용하여 프로토타이핑을 완성**  
     - marvelapp을 사용하여 프로토타이핑을 진행하였다.  
     https://marvelapp.com/prototype/1bab4224/screen/95834101
     
@@ -12,7 +12,7 @@
 ![my_application_01 – main dart](https://github.com/user-attachments/assets/e49340bf-f65e-4efe-8eec-ee97b4e488dd)
 
 
-**회고**
+**회고**  
     - 아직 flutter를 다루는 게 익숙치 않아서 프로젝트를 수행하는 데 어려움이 있었다.  
     - StatelessWidget이 아닌 StatefulWidget으로 사용하여야 할 때, MaterialPageRoute 같은 동적 경로 생성자를 사용할 때 등 계속 에러가 있어서 시간이 많이 소요되었다.  
     - 특히, ID로 입력받은 값을 전달받아서 다음 화면에 보여줄때를 구현하는 것이 어려웠었는데, print로 디버깅하면서 시도하였지만, 2개의 화면 중 1개의 화면만 성공할 수 있었다. 구현하지 못한 부분은 추후 수정보완작업을 진행하여야 할 것 같다.
