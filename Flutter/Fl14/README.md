@@ -1,21 +1,23 @@
 # 인공지능 서비스 디자인하기
-**1. 어플리케이션의 정보구조도 및 레이블링(하단 탭 구조)과 와이어프레임**
-    - 어플리케이션 설명: 습관을 만들고 싶은 현대인들에게 "꾸준러"를 챌린지를 진행하는 앱이다.
+**1. 어플리케이션의 정보구조도 및 레이블링(하단 탭 구조)과 와이어프레임**  
+    - 어플리케이션 설명: 습관을 만들고 싶은 현대인들에게 "꾸준러"를 챌린지를 진행하는 앱이다.  
     - 와이어프레임
 ![와이어프레임](https://github.com/user-attachments/assets/40bd62cc-6ad4-4b49-b236-ba445308edbf)
 
 **2. 와이어프레임을 바탕으로 프로토타이핑 툴(Oven, Figma, Adobe XD, Protopie 등)중 하나를 사용하여 프로토타이핑을 완성**
-    - marvelapp을 사용하여 프로토타이핑을 진행하였다. 
-https://marvelapp.com/prototype/1bab4224/screen/95834101
+    - marvelapp을 사용하여 프로토타이핑을 진행하였다.  
+    https://marvelapp.com/prototype/1bab4224/screen/95834101
     
 **3. 프로토타이핑 화면을 플러터로 구현**
 ![my_application_01 – main dart](https://github.com/user-attachments/assets/e49340bf-f65e-4efe-8eec-ee97b4e488dd)
 
 
 **회고**
-    - 아직 flutter를 다루는 게 익숙치 않아서 프로젝트를 수행하는 데 어려움이 있었다.
-    - StatelessWidget이 아닌 StatefulWidget으로 사용하여야 할 때, MaterialPageRoute 같은 동적 경로 생성자를 사용할 때 등 계속 에러가 있어서 시간이 많이 소요되었다.
+    - 아직 flutter를 다루는 게 익숙치 않아서 프로젝트를 수행하는 데 어려움이 있었다.  
+    - StatelessWidget이 아닌 StatefulWidget으로 사용하여야 할 때, MaterialPageRoute 같은 동적 경로 생성자를 사용할 때 등 계속 에러가 있어서 시간이 많이 소요되었다.  
     - 특히, ID로 입력받은 값을 전달받아서 다음 화면에 보여줄때를 구현하는 것이 어려웠었는데, print로 디버깅하면서 시도하였지만, 2개의 화면 중 1개의 화면만 성공할 수 있었다. 구현하지 못한 부분은 추후 수정보완작업을 진행하여야 할 것 같다.
+
+
 
 
 # AIFFEL Campus Online Code Peer Review Templete
