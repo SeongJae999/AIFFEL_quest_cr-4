@@ -8,9 +8,9 @@ AIFFEL_quest_cr
 │   ├── Quest01
 │   │   ├── .ipynb
 │   │   └── README.md
-.       .
-.       .
-.       .
+.   .   .
+.   .   .
+.   .   .
 │   └── Quest04
 │       ├── .ipynb
 │       └── README.md
@@ -19,11 +19,11 @@ AIFFEL_quest_cr
 .
 └── Python
 │   ├── Py01
-│       ├── .ipynb
-│       └── README.md
-.       .
-.       .
-.       .
+│   │   ├── .ipynb
+│   │   └── README.md
+.   .   .
+.   .   .
+.   .   .
 │   └── Py04
 │       ├── .ipynb
 │       └── README.md
@@ -35,9 +35,9 @@ AIFFEL_quest_cr
 │   ├── Fl11
 │   │   ├── Fl11_project
 │   │   └── README.md
-.       .
-.       .
-.       .
+.   .   .
+.   .   .
+.   .   .
 │   └── Fl15
 │       ├── Fl15_project
 │       └── README.md
@@ -45,13 +45,13 @@ AIFFEL_quest_cr
 .
 .
 └── Exploration
-│   ├── Ex22
-│   │   ├── .ipynb
-│   │   └── README.md
-.       .
-.       .
-.       .
-│   └── Ex28
-│       ├── .ipynb
-│       └── README.md
+    ├── Ex22
+    │   ├── .ipynb
+    │   └── README.md
+    .   .
+    .   .
+    .   .
+    └── Ex28
+        ├── .ipynb
+        └── README.md
 ```
